@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Md. Abdul Matin Biswas. You can call me as Roche as well.<br>👀 I’m interested in Software Testing. I'm passionate tester about manual and automation testing skills.<br>🌱 I’m currently learning with helps from various www.youtube.com automation testing tutorials.<br>💞️ I’m looking to collaborate on Software Automation Testing for API, Web and Mobile platform.<br>📫 You can reach me through my mail: rochepacific@gmail.com or cell phone: +8801716124786
+👋 Hi, I’m Md. Abdul Matin Biswas. You can call me as Roche as well.<br>👀 I’m interested in Software Testing. I'm passionate tester about manual and automation testing suites.<br>🌱 I’m currently learning with helps from various www.youtube.com automation testing tutorials.<br>💞️ I’m looking to collaborate on Software Automation Testing for API, Web and Mobile platform.<br>📫 You can reach me through my mail: rochepacific@gmail.com or cell phone: +8801716124786
 
 
 ## 🌐 Socials:
